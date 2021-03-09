@@ -1,0 +1,19 @@
+.round{
+  margin-top: 1%;
+  width: 10%;
+  height: 100px;
+  background-color: lightgrey;
+  border-radius: 50%;
+}
+.container{
+  display: flex;
+  /* les elements se placent sur toute la largeur de l'axe avec un espace égal */
+  justify-content: space-between;
+}
+/*.square{
+  margin-left: 1%;
+  margin-top: 1%;
+  width: 75%;
+  height: 100px;
+  background-color: lightgreen;
+}
